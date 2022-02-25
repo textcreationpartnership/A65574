@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New-England's present sufferings under their cruel neighbouring Indians represented in two letters lately written from Boston to London.</title>
+            <author>Wharton, Edward, d. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65574</idno>
+            <idno type="STC">Wing W1536</idno>
+            <idno type="STC">ESTC R12188</idno>
+            <idno type="EEBO-CITATION">12646699</idno>
+            <idno type="OCLC">ocm 12646699</idno>
+            <idno type="VID">65152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 338:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New-England's present sufferings under their cruel neighbouring Indians represented in two letters lately written from Boston to London.</title>
+                  <author>Wharton, Edward, d. 1678.</author>
+               </titleStmt>
+               <extent>[2], 7 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letters dated the 4th and the 10th respectively, of the 8th month, and signed: E.W.</note>
+                  <note>Attributed to Edward Wharton. Cf. NUC pre-1956; Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65152:1"/>
+            <pb facs="tcp:65152:1"/>
+            <p>New-England's PRESENT SUFFERINGS UNDER Their Cruel Neighbouring INDIANS.</p>
+            <p>REPRESENTED In two LETTERS, lately Written from <hi>BOSTON</hi> to <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:65152:2"/>
+            <pb n="1" facs="tcp:65152:2"/>
+            <head>
+               <hi>New-England's</hi> preſent Sufferings, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Boſton,</hi> 
+                  <date>the 4<hi>th</hi> of the 11<hi>th</hi> month, 1675.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>My Friend,</salute>
+            </opener>
+            <p>AFter my Love to thee and thy wife, and the reſt of my beloved Friends in the Truth, in the which, as we abide, we are a Flock; yea, we are a pure Family of Love, the Houſhold and Children of the living God, in whom he will be glorifi'd, in carrying of his Lambs and Babes in the Arms and Ark of his everlasting power, over all the ſwelling and raging Waves of the Enemy, both within and without; to the joy of all his Faithful ones; and to the Glory and Renown of his holy Name, who over all in Hea<g ref="char:EOLhyphen"/>ven and Earth, and every where is bleſſed for ever and ever more.</p>
+            <p>Dear Frind,<lb/> I Comeing to Town, and hearing of <hi>John Walley</hi> (him by whom thou haſt ſent to me) who being juſt ready to Sail for <hi>London,</hi> could not omit to write theſe few lines unto thee: But my buſineſs to <hi>Boſton</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t this time was to build up ſomething over our) never to forgotten) Friends Graves, whom the Apoſtate Profeſſors of <hi>New-England</hi> had hanged on a Tree, and buryed neer the Countreys High<g ref="char:EOLhyphen"/>way ſide; the Lord having put it into my heart, that now was a fit and ſeaſonable time, it being a day of great Calamity and diſtreſs up<g ref="char:EOLhyphen"/>on moſt part of <hi>New-England;</hi> For the Natives are riſen in great wrath and fury againſt the <hi>Engliſh,</hi> breaking in upon many places with fireing of Houſes, and torturing of ſundry perſons with ſeveral ſorts of Tortures: And it is reported they hang up ſome alive in Iron Cr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ks, by the under Jaw untill Death, burying ſome alive by de<g ref="char:EOLhyphen"/>grees,
+<pb n="4" facs="tcp:65152:3"/>and Skinning others alive. And ſome they carry away it is not known whither, but it is thought to Torture them after the moſt horrid ways they can invent; and here are great buſles in Preſſing Men, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſending out to War. But the <hi>Indians</hi> (as a Scourge in the hand o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord) goe on with great <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lty and ſucceſs, upbraiding and c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llenging the <hi>Engliſh</hi> Warr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers when they ſee them, and ſaying, <hi>Come, why do ye not fight?</hi> So that in a little time they have much ſur<g ref="char:EOLhyphen"/>prized, and made great ſlaughters upon the <hi>Engliſh:</hi> and although they had great ſtore of Ammunition of their own, yet they get much more by Rifling of Houſes, and Slaughtering Souldiers out of the Thick<g ref="char:EOLhyphen"/>ets and Swamps, as they March and Travel along the Woods. They lately met with a Captain and his Company as they were paſſing o<g ref="char:EOLhyphen"/>ver a Swamp; and at one Volley of Shot ſlew him, and neer all his Company. The <hi>Indians,</hi> I hear, inſult very much, and tell the <hi>Engliſh</hi> Warriers that God is againſt them, and for the <hi>Indians;</hi> and that the <hi>Engliſh</hi> ſhall (for their Unrighteouſneſs) fall into their hands. Our Rulers, Officers, and Councellors are like as men in a maze, not knowing what to do: but the Prieſts ſpur them on, telling them the <hi>Indians</hi> are ordained for deſtruction; bidding them go forth to Warr, and they will Faſt and Pray at home in the mean time: yet their Gene<g ref="char:EOLhyphen"/>ral, with ſome other Officers, complain and ſay, with tears, They ſee not God go along with them. And many of the <hi>Engliſh,</hi> when the Natives have killed them, they ſtrip them naked, and leave their bo<g ref="char:EOLhyphen"/>dies to rot upon the ground. I heard ſome of the <hi>Indians</hi> did ſay to ſome <hi>Engliſhmen,</hi> That they did not think the <hi>Quakers</hi> would come out againſt them: I have not yet heard of much hurt they have done to Friends; but it is likely to be a time of great tryal to all here.</p>
+            <p>What I had to get upon our Friends Graves being ready framed a<g ref="char:EOLhyphen"/>forehand, I got two Friends to help me to ſet it up in the night, a Court of Guard being kept very neer; but it being pretty dark, we did our work without interruption; ſo next day, pretty early, tiding was brought into Town, that there was a Tombe built upon the two <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> Grave by the Gallows; and it being a Market day, it is ſaid, ma<g ref="char:EOLhyphen"/>ny hundreds, of Town and Country, flock'd about it, Reading, taking, and giving Copeys of the Inſcription which was Engraven upon the Front end of the Work: And much people were ſeriouſly affected, ſay<g ref="char:EOLhyphen"/>ing, one to another, that the deſtroying of thoſe good people, is that which hath brought the Diſpleaſure and Judgment of the Lord upon this Countrey: But the Prieſts and Rulers, it being General Court time, hearing of it, and the great Concourſe of people which gathered
+<pb n="5" facs="tcp:65152:3"/>about it, in the evening, it being the laſt day of the week, they ſent ſome to pull it in pieces, and to bring the Table, with the Inſcription, to the Governour, and General Court. When it was Demolliſhed, divers people, who afterwards came from divers Towns to ſee it, loſt their labours. But notwithſtanding the rage of the Enemy, it hath pro<g ref="char:EOLhyphen"/>ved very good ſervice, and to the torment of the blood guilty; and it riſeth in the hearts of many people afreſh. So, my Dear Friend, with true Love, I Reſt,</p>
+            <closer>
+               <signed>E. W.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <hi>Boston,</hi> 
+                  <date>the 10<hi>th</hi> of the 8<hi>th.</hi> Month, 1675.</date>
+               </dateline>
+               <lb/>
+               <salute>My well beloved Friend,</salute>
+            </opener>
+            <p>AFter the remembrance of true Love to the, and the reſt of dear Friends, <hi>&amp;c.</hi> This may inform thee, that a moſt bitter Spirit is entred the <hi>Engliſh,</hi> and <hi>Indians;</hi> in which they greatly endea<g ref="char:EOLhyphen"/>vour the utter deſtruction one of another: ſo that the Face of the ſtate and condition of this Country, to all that ſees, ſeems very ſad, and doleſome; and the fearful day of Gods moſt righteous Judge<g ref="char:EOLhyphen"/>ments according to his unchangeable Word, ſpoken by his faithful Servants, and Prophets, ſeems now, like a mighty and terrible one, to come upon this wicked, and adulterated Place, and People: and al<g ref="char:EOLhyphen"/>though they do faſt, and pray often, yet ſtill ſtands in them, faſt root<g ref="char:EOLhyphen"/>ed, the evil Tree, and they ſtill delight to ſmite with the Fiſt of wickedneſs, even all them who faithfully reprove Iniquity in the gate; and their evil hearts are much hardned So that, although Plagues, and Perplexities come in upon them, like an overflowing Stream, yet their wiſe <hi>Achitophels</hi> feed themſelves fat, without fear, as for a day of ſlaughter, whilſt many of our miſerable Inhabitants lye naked, wallowing in their blood, and dying; and whilſt the Bar<g ref="char:EOLhyphen"/>barous enraged Natives, from one part of the Country, to another, are on Fire, flaming forth their fury, ſpoiling Cattle and Corn,
+<pb n="6" facs="tcp:65152:4"/>and burning Houſes, and torturing Men, Women, and Children; anf burning them alive. Yeſterday came news to mine Ear, that a few Miles off, the <hi>Indians</hi> came to a Houſe, and catch'd a Child of half a Year old, from its Mother, and another about ten Years old; both which they carried to the other ſide of a River, where they made a Fire; and in ſight of the tender Mother, they took up the youngeſt by one Leg, and held it aloft, and ſaid, ſee you, <hi>Engliſh</hi> Woman, (or to that purpoſe) and ſo threw it into the Fire, and burnt it; and ſo it's ſuppoſed, they deſtroytd the other alſo. I this day heard of one whom they were three days torturing to death; ſo it plainly appears <hi>New-Englands</hi> unparalel'd day is now come upon themſelves. Divers of the Prieſts (I heard) gathered together to conſider what might be the cauſe that the Hand of the Lord is thus ſtretched forth againſt them: and one of them ſaid, there ſeems to be a thick Cloud between the Lord and our Prayers, and the Lord goes not forth with our For<g ref="char:EOLhyphen"/>ces; but on the very days that we Faſt, and Pray before the Lord, do our Enemies give us the greateſt overthrows; and the laſt time we Faſted, we had the greateſt ſlaughter; and ſome confeſſed that the greateſt cauſe might be in the Prieſts, but they would not all agree to that; ſo <hi>Babylon</hi> was, and is divided. One of their Prieſts, on a Faſt day, took his Text out of the <hi>44th</hi> Pſalm, beginning at the <hi>9th.</hi> Verſe, and read to the <hi>14th.</hi> but Preached on the <hi>9th. But thou haſt caſt off, and put us to ſhame; and goeſt not forth with our Armies.</hi> Verſe 10. <hi>Thou makeſt us to turn back from the Enemy; and they which hat us, ſpoil us for themſelves.</hi> Verſe 11. <hi>Thou haſt given us like Sheep appointed for Meat, and haſt ſcattered us among the Heathen</hi> Verſe 12. <hi>Thou ſelleſt thy Peo<g ref="char:EOLhyphen"/>ple for nought, and doſt not encreaſe thy Wealth by their Peace.</hi> Verſe 13. <hi>Thou <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt us a reproach to our Neighbours, a ſcorn, and a Diviſion to them <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are round about us.</hi>
+            </p>
+            <p>The <hi>Indians</hi> Inſult very much over our <hi>Engliſh</hi> Forces, Challenging them out to right: you ſay, ſay they, you will kill all the <hi>Indians;</hi> why come you not forth to fight? Sometimes they watch the <hi>Engliſh,</hi> and will not ſuffer them to bury their flain, but force them to flee before them; and then return, and ſtrip the flain naked, and leave their Bo<g ref="char:EOLhyphen"/>dies to rot above ground: now theſe things are come to paſs, as was foretold by our Friends, the Servants of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord. A few days ſince, a Man, who had gotten one of <hi>George Biſhop's</hi> Books of Friends ſuffer<g ref="char:EOLhyphen"/>ings in <hi>New England,</hi> and reading a ſaying there, wherein he teſti<g ref="char:EOLhyphen"/>fied the days ſhould ſhortly come, that great Calamities ſhould come upon that People; and that their Young Men ſhould fall by the Sword,
+<pb n="7" facs="tcp:65152:4"/>and Worms ſhall cover them; and the Cup which they had filled to to others, ſhould be filled double to themſelves: This Man being preſs'd in Spirit, went to the General Court, then ſitting, with <hi>George Biſhop's</hi> Book in his hand; and came ſeveral Miles out of the Coun<g ref="char:EOLhyphen"/>try: he told them he could not have reſt in his mind, until he came to ſhew them that Book; and he delivered it to them, bidding them read ſuch a place, and conſider if he was not a true Prophet from the Lord, in what he had foretold; and whether it was not now come to paſs: But they frowned hard upon him, and examined him if he went to the Publique Worſhip, or nay; whereupon he demanded his Book again, but went away without it. Some of the Prieſts do endeavour to charm the minds of the People, and to perſwade them that the cauſe of theſe diſtreſſes, fears, and horrors, that is come upon them in their lying down, and riſing up, is for that the Magiſtrates do ſuffer the Quakers, and other Hereticks to live amongſt them; but others of them, tell the People in their Pulpits, that the great cauſe of Gods ſore diſpleaſure againſt them, is the guilt of innocent blood, which from time to time, hath been ſhed in the Land; and father ſaid, that al<g ref="char:EOLhyphen"/>though the Lord had this Year taken away the Plague of Blaſting the Wheat in the Field, yet a greater Plague hath he brought in its room; and if thus it doth continue, greater Plagues than theſe are like to en<g ref="char:EOLhyphen"/>ſue the next Year, even Peſtilence, and Famine, with the Sword. Great is the Policy, and Wiſdome the Natives do Act withal; for they compaſs the out-ſides, and weakeſt Towns in the Country; and gather the People, and drives of them in heaps, like Fiſhes before a Net and make them fly before them to the ſtrongeſt Towns for Refuge; and ſay, they will drive them down to <hi>Boſton,</hi> and to two or three more of their ſtrongeſt Towns, where they, for want, ſhall ſtarve, and famiſh one another, and at preſent (if the Lord ſhew not mercy) they ſeem as if they would deſtroy, and roul up the reſt of our Nation, as a burdenſome, and menſtruous Cloth, and caſt it out of their Land; but bleſſed ſhall every one be that fears, and follows the Lord with an upright heart; for ſuch he will make as a Wall of Braſs, and he will be their deliverer, and their ſtrong Tower, henceforth and for ever more, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Thy Friend in my meaſure in that which changeth not. <hi>E. W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:65152:5"/>
+            <head>A Copy of the Inſcription that was In<g ref="char:EOLhyphen"/>graven over their Grave.</head>
+            <l>Although our Bodyes here</l>
+            <l>in ſilent Earth do lie,</l>
+            <l>Yet are our Righteous Souls at Rest,</l>
+            <l>our Blood for Vengance cry.</l>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:65152:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
